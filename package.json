@@ -1,0 +1,25 @@
+{
+  "name": "nodeprinter",
+  "version": "1.0.0",
+  "description": "Console Text Printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/NodePrinter.git"
+  },
+  "keywords": [
+    "console",
+    "text",
+    "printer",
+    "nodejs"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreXLin85/NodePrinter/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/NodePrinter#readme"
+}
